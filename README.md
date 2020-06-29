@@ -1,5 +1,5 @@
 # First-Game-Unity
-Designing my first 3D game using unity 
+Designing different type of games to improve basic knowledge 
 
 Practice Unity - Simple cube runner to understand basics of physics, connecting Levels and other basic Unity components
                  Only have a build for Macs to run downoload repo and open build folder in Finder
